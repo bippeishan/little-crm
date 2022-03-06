@@ -1,0 +1,45 @@
+2022-03-06 15:59:22,035 ERROR 18071 [-/::1/-/11ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg/lib/application.js:266:15)
+    at Object.get cookies [as cookies] (/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg/app/extend/context.js:23:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-security/app/extend/context.js:91:35)
+    at Object.ensureCsrfSecret (/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-security/app/extend/context.js:104:13)
+    at csrf (/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-security/lib/middlewares/csrf.js:15:11)
+    at dispatch (/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+
+pid: 18071
+hostname: 192.168.1.8
+
+2022-03-06 16:57:26,826 ERROR 20645 [-/::1/-/5ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg/lib/application.js:266:15)
+    at Object.get cookies [as cookies] (/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg/app/extend/context.js:23:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-security/app/extend/context.js:91:35)
+    at Object.ensureCsrfSecret (/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-security/app/extend/context.js:104:13)
+    at csrf (/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-security/lib/middlewares/csrf.js:15:11)
+    at dispatch (/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+
+pid: 20645
+hostname: 192.168.1.8
+
+2022-03-06 16:57:43,451 ERROR 20645 [-/::1/-/1ms GET /api/members] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg/lib/application.js:266:15)
+    at Object.get cookies [as cookies] (/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg/app/extend/context.js:23:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-security/app/extend/context.js:91:35)
+    at Object.ensureCsrfSecret (/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-security/app/extend/context.js:104:13)
+    at csrf (/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-security/lib/middlewares/csrf.js:15:11)
+    at dispatch (/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+
+pid: 20645
+hostname: 192.168.1.8
+

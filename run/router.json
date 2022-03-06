@@ -1,0 +1,15 @@
+[
+  {
+    "name": "members",
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/api/members",
+    "regexp": "/^\\/api\\/members(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  }
+]
