@@ -12,9 +12,11 @@ directories:
 
 files:
   - package.json
-  - build/
+  - little-crm/build/
   - node_modules/
-  - src/main.js
+  - main.js
+  - app/
+  - config/
 
 dmg:
   contents:

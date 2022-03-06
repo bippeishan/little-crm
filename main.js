@@ -5,6 +5,8 @@ const url = require('url');
 // 保持window对象的全局引用,避免JavaScript对象被垃圾回收时,窗口被自动关闭.
 let mainWindow
 
+var exec = require('child_process').exec; 
+
 function createWindow () {
 //创建浏览器窗口,宽高自定义
 mainWindow = new BrowserWindow({width: 800, height: 600})
@@ -53,5 +55,11 @@ app.on('window-all-closed', function () {
     // macOS中点击Dock图标时没有已打开的其余应用窗口时,则通常在应用中重建一个窗口
    if (mainWindow === null) {
      createWindow()
+   }
+ })
+
+ exec('npm run start', function(err,stdout,stderr){
+   if (err) {
+     console.log('服务启动失败:', err)
    }
  })
