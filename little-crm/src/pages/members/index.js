@@ -1,5 +1,5 @@
 import './index.css';
-import { Table, Menu } from 'antd'
+import { Table } from 'antd'
 import axios from 'axios';
 import { useEffect, useState } from 'react';
 
@@ -29,21 +29,37 @@ function Members() {
     dataIndex: 'name',
     key: 'name',
   },{
-    title: '工资',
-    dataIndex: 'salary',
-    key: 'salary',
+    title: '基础工资',
+    dataIndex: 'base_salary',
+    key: 'base_salary',
+  },{
+    title: '竞业补贴',
+    dataIndex: 'competi_subsidy',
+    key: 'competi_subsidy',
+  },{
+    title: '高管补贴',
+    dataIndex: 'senior_subsidy',
+    key: 'senior_subsidy',
+  },{
+    title: '季度奖金基数',
+    dataIndex: 'quarter_bonus_base',
+    key: 'quarter_bonus_base',
+  },{
+    title: '年终奖基数',
+    dataIndex: 'year_bonus_base',
+    key: 'year_bonus_base',
+  },{
+    title: '创建时间',
+    dataIndex: 'create_time',
+    key: 'create_time',
+  },{
+    title: '更新时间',
+    dataIndex: 'update_time',
+    key: 'update_time',
   }];
 
   return (
     <div className="Members">
-      <Menu 
-            mode='horizontal'
-            defaultSelectedKeys={['members']}
-            size='sm'
-        >
-            <Menu.Item key='members'>员工列表</Menu.Item>
-        </Menu>
-        
         <Table columns={columns} dataSource={members} rowKey='id'/>
     </div>
   );

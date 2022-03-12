@@ -169,3 +169,36 @@
 2022-03-12 12:59:58,408 INFO 2231 [egg-schedule]: register schedule /Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
 2022-03-12 12:59:58,408 INFO 2231 [egg-schedule]: register schedule /Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-logrotator/app/schedule/clean_log.js
 2022-03-12 12:59:58,408 INFO 2231 [egg-schedule]: register schedule /Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-03-12 13:56:37,945 INFO 3471 [egg-schedule]: register schedule /Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-03-12 13:56:37,945 INFO 3471 [egg-schedule]: register schedule /Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-03-12 13:56:37,945 INFO 3471 [egg-schedule]: register schedule /Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-03-12 13:57:28,828 INFO 3502 [egg-schedule]: register schedule /Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-03-12 13:57:28,828 INFO 3502 [egg-schedule]: register schedule /Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-03-12 13:57:28,828 INFO 3502 [egg-schedule]: register schedule /Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-03-12 14:11:48,764 INFO 3884 [egg-schedule]: register schedule /Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-03-12 14:11:48,764 INFO 3884 [egg-schedule]: register schedule /Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-03-12 14:11:48,764 INFO 3884 [egg-schedule]: register schedule /Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-03-12 14:13:38,055 INFO 3992 [egg-schedule]: register schedule /Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-03-12 14:13:38,055 INFO 3992 [egg-schedule]: register schedule /Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-03-12 14:13:38,055 INFO 3992 [egg-schedule]: register schedule /Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-03-12 14:14:55,831 INFO 4036 [egg-schedule]: register schedule /Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-03-12 14:14:55,831 INFO 4036 [egg-schedule]: register schedule /Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-03-12 14:14:55,831 INFO 4036 [egg-schedule]: register schedule /Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-03-12 14:15:11,959 INFO 4053 [egg-schedule]: register schedule /Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-03-12 14:15:11,959 INFO 4053 [egg-schedule]: register schedule /Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-03-12 14:15:11,959 INFO 4053 [egg-schedule]: register schedule /Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-03-12 14:16:31,218 INFO 4113 [egg-schedule]: register schedule /Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-03-12 14:16:31,218 INFO 4113 [egg-schedule]: register schedule /Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-03-12 14:16:31,218 INFO 4113 [egg-schedule]: register schedule /Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-03-12 15:52:27,530 INFO 6656 [Timer] /Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 45452472ms at 2022-03-13 04:30:00.002
+2022-03-12 15:52:27,530 INFO 6656 [Timer] /Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 29252470ms at 2022-03-13 00:00:00.000
+2022-03-12 15:52:27,530 INFO 6656 [Timer] /Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 29253470ms at 2022-03-13 00:00:01.000
+2022-03-12 15:52:27,212 INFO 6657 [egg-schedule]: register schedule /Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-03-12 15:52:27,212 INFO 6657 [egg-schedule]: register schedule /Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-03-12 15:52:27,212 INFO 6657 [egg-schedule]: register schedule /Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-03-12 16:07:51,209 INFO 7680 [egg-schedule]: register schedule /Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-03-12 16:07:51,209 INFO 7680 [egg-schedule]: register schedule /Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-03-12 16:07:51,209 INFO 7680 [egg-schedule]: register schedule /Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-03-12 16:07:51,512 INFO 7675 [Timer] /Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 44528489ms at 2022-03-13 04:30:00.001
+2022-03-12 16:07:51,513 INFO 7675 [Timer] /Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 28328488ms at 2022-03-13 00:00:00.001
+2022-03-12 16:07:51,513 INFO 7675 [Timer] /Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 28329487ms at 2022-03-13 00:00:01.000

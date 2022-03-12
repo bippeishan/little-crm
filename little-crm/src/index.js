@@ -1,19 +1,20 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { HashRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, BrowserRouter, Route, Switch, Redirect } from "react-router-dom";
 
 import './index.css';
+import Home from './pages/home';
 import Members from './pages/members';
 import reportWebVitals from './reportWebVitals';
 
 import 'antd/dist/antd.css';
 
 ReactDOM.render(
-  <HashRouter>
-    <Routes>
-      <Route path='/' element={<Members />}></Route>
-    </Routes>
-  </HashRouter>,
+  <BrowserRouter>
+    <Switch>
+      <Route path='/' component={Home}></Route>
+    </Switch>
+  </BrowserRouter>,
   document.getElementById('root')
 );
 

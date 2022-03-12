@@ -11,5 +11,14 @@ class MemberController extends Controller {
     };
     ctx.status = 200;
   }
+
+  async create() {
+    const ctx = this.ctx;
+    // 调用 service 创建一个 topic
+    const result = await ctx.service.member.create(ctx.request.body);
+    // 设置响应体和状态码
+    ctx.body = result;
+    ctx.status = 200;
+  }
 }
 module.exports = MemberController;

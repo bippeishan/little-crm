@@ -8,22 +8,28 @@ class MemberService extends Service {
 
   async index() {
     const result = await this.app.mysql.select('member', {
-      where: { status: 0 },
+      where: { status: 1 },
       orders: [['create_time','desc']],
       limit: 20,
       offset: 0
     })
-    console.log('result:', result)
-    return [{
-      'id': 1,
-      'name': '小红',
-      'salary': 1000
-    },
-    {
-      'id': 2,
-      'name': '小蓝',
-      'salary': 2000
-    }];
+    return result;
+  }
+
+  async create(args) {
+    const result = await this.app.mysql.insert('member', {
+      name: args.name,
+      base_salary: args.base_salary,
+      competi_subsidy: args.competi_subsidy,
+      senior_subsidy: args.senior_subsidy,
+      quarter_bonus_base: args.quarter_bonus_base,
+      year_bonus_base: args.year_bonus_base,
+      status: 1,
+    })
+    console.log('create-result:', result)
+    return {
+      success: result.affectedRows === 1
+    };
   }
 }
 

@@ -23,17 +23,16 @@ mainWindow = new BrowserWindow({width: 800, height: 600})
 
     console.log('process.env.NODE_ENV:', process.env.NODE_ENV)
     // if (process.env.NODE_ENV === 'dev') mainWindow.loadURL(`http://localhost:3000`)
-    // else mainWindow.loadFile(path.resolve(__dirname, '../build/index.html'))
-    // mainWindow.loadURL(`http://localhost:3000`)
-    mainWindow.loadURL(url.format({
-      pathname: path.resolve(__dirname, './little-crm/build/index.html'),
-      protocol: 'file:',
-      slashes: true,
-      // hash: "settings"
-    }))
+    mainWindow.loadURL(`http://localhost:3000/members`)
+    // mainWindow.loadURL(url.format({
+    //   pathname: path.resolve(__dirname, './little-crm/build/index.html'),
+    //   protocol: 'file:',
+    //   slashes: true,
+    //   // hash: "settings"
+    // }))
   
   // 打开开发者工具，默认不打开
-  // mainWindow.webContents.openDevTools()
+  mainWindow.webContents.openDevTools()
 
   // 关闭window时触发下列事件.
   mainWindow.on('closed', function () {

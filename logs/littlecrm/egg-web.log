@@ -551,3 +551,147 @@
 2022-03-12 12:59:58,556 INFO 2231 [egg-watcher:application] watcher start success
 2022-03-12 12:59:58,557 INFO 2231 [egg-mysql] instance[0] status OK, rds currentTime: Sat Mar 12 2022 12:59:58 GMT+0800 (China Standard Time)
 2022-03-12 12:59:58,563 INFO 2231 [egg:core] dump config after ready, 4ms
+2022-03-12 13:56:37,913 INFO 3471 [egg:logger] init all loggers with options: {"dir":"/Users/bips/Documents/gitres/web/electron/littleCRM/logs/littlecrm","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"littlecrm-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-03-12 13:56:37,946 INFO 3471 [egg-multipart] stream mode enable
+2022-03-12 13:56:37,946 INFO 3471 [egg-mysql] connecting root@127.0.0.1:3306/littlecrm
+2022-03-12 13:56:38,217 INFO 3471 [egg-static] starting static serve /public/ -> /Users/bips/Documents/gitres/web/electron/littleCRM/app/public
+2022-03-12 13:56:38,220 INFO 3471 [egg-security] use csrf middleware
+2022-03-12 13:56:38,221 INFO 3471 [egg-security] use methodnoallow middleware
+2022-03-12 13:56:38,222 INFO 3471 [egg-security] use noopen middleware
+2022-03-12 13:56:38,223 INFO 3471 [egg-security] use nosniff middleware
+2022-03-12 13:56:38,224 INFO 3471 [egg-security] use xssProtection middleware
+2022-03-12 13:56:38,225 INFO 3471 [egg-security] use xframe middleware
+2022-03-12 13:56:38,227 INFO 3471 [egg-security] use dta middleware
+2022-03-12 13:56:38,227 INFO 3471 [egg-security] compose 7 middlewares into one security middleware
+2022-03-12 13:56:38,236 INFO 3471 [egg:core] dump config after load, 3ms
+2022-03-12 13:56:38,251 INFO 3471 [egg-watcher:application] watcher start success
+2022-03-12 13:56:38,252 INFO 3471 [egg-mysql] instance[0] status OK, rds currentTime: Sat Mar 12 2022 13:56:38 GMT+0800 (China Standard Time)
+2022-03-12 13:56:38,260 INFO 3471 [egg:core] dump config after ready, 6ms
+2022-03-12 13:57:28,798 INFO 3502 [egg:logger] init all loggers with options: {"dir":"/Users/bips/Documents/gitres/web/electron/littleCRM/logs/littlecrm","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"littlecrm-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-03-12 13:57:28,829 INFO 3502 [egg-multipart] stream mode enable
+2022-03-12 13:57:28,830 INFO 3502 [egg-mysql] connecting root@127.0.0.1:3306/littlecrm
+2022-03-12 13:57:29,092 INFO 3502 [egg-static] starting static serve /public/ -> /Users/bips/Documents/gitres/web/electron/littleCRM/app/public
+2022-03-12 13:57:29,094 INFO 3502 [egg-security] use csrf middleware
+2022-03-12 13:57:29,095 INFO 3502 [egg-security] use methodnoallow middleware
+2022-03-12 13:57:29,096 INFO 3502 [egg-security] use noopen middleware
+2022-03-12 13:57:29,097 INFO 3502 [egg-security] use nosniff middleware
+2022-03-12 13:57:29,098 INFO 3502 [egg-security] use xssProtection middleware
+2022-03-12 13:57:29,099 INFO 3502 [egg-security] use xframe middleware
+2022-03-12 13:57:29,100 INFO 3502 [egg-security] use dta middleware
+2022-03-12 13:57:29,100 INFO 3502 [egg-security] compose 7 middlewares into one security middleware
+2022-03-12 13:57:29,110 INFO 3502 [egg:core] dump config after load, 4ms
+2022-03-12 13:57:29,123 INFO 3502 [egg-watcher:application] watcher start success
+2022-03-12 13:57:29,124 INFO 3502 [egg-mysql] instance[0] status OK, rds currentTime: Sat Mar 12 2022 13:57:29 GMT+0800 (China Standard Time)
+2022-03-12 13:57:29,130 INFO 3502 [egg:core] dump config after ready, 4ms
+2022-03-12 14:11:48,737 INFO 3884 [egg:logger] init all loggers with options: {"dir":"/Users/bips/Documents/gitres/web/electron/littleCRM/logs/littlecrm","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"littlecrm-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-03-12 14:11:48,765 INFO 3884 [egg-multipart] stream mode enable
+2022-03-12 14:11:48,765 INFO 3884 [egg-mysql] connecting root@127.0.0.1:3306/littlecrm
+2022-03-12 14:11:49,036 INFO 3884 [egg-static] starting static serve /public/ -> /Users/bips/Documents/gitres/web/electron/littleCRM/app/public
+2022-03-12 14:11:49,039 INFO 3884 [egg-security] use csrf middleware
+2022-03-12 14:11:49,040 INFO 3884 [egg-security] use methodnoallow middleware
+2022-03-12 14:11:49,041 INFO 3884 [egg-security] use noopen middleware
+2022-03-12 14:11:49,043 INFO 3884 [egg-security] use nosniff middleware
+2022-03-12 14:11:49,044 INFO 3884 [egg-security] use xssProtection middleware
+2022-03-12 14:11:49,045 INFO 3884 [egg-security] use xframe middleware
+2022-03-12 14:11:49,046 INFO 3884 [egg-security] use dta middleware
+2022-03-12 14:11:49,046 INFO 3884 [egg-security] compose 7 middlewares into one security middleware
+2022-03-12 14:11:49,056 INFO 3884 [egg:core] dump config after load, 4ms
+2022-03-12 14:11:49,069 INFO 3884 [egg-watcher:application] watcher start success
+2022-03-12 14:11:49,071 INFO 3884 [egg-mysql] instance[0] status OK, rds currentTime: Sat Mar 12 2022 14:11:49 GMT+0800 (China Standard Time)
+2022-03-12 14:11:49,076 INFO 3884 [egg:core] dump config after ready, 4ms
+2022-03-12 14:13:38,033 INFO 3992 [egg:logger] init all loggers with options: {"dir":"/Users/bips/Documents/gitres/web/electron/littleCRM/logs/littlecrm","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"littlecrm-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-03-12 14:13:38,056 INFO 3992 [egg-multipart] stream mode enable
+2022-03-12 14:13:38,056 INFO 3992 [egg-mysql] connecting root@127.0.0.1:3306/littlecrm
+2022-03-12 14:13:38,156 INFO 3992 [egg-static] starting static serve /public/ -> /Users/bips/Documents/gitres/web/electron/littleCRM/app/public
+2022-03-12 14:13:38,158 INFO 3992 [egg-security] use csrf middleware
+2022-03-12 14:13:38,158 INFO 3992 [egg-security] use methodnoallow middleware
+2022-03-12 14:13:38,159 INFO 3992 [egg-security] use noopen middleware
+2022-03-12 14:13:38,159 INFO 3992 [egg-security] use nosniff middleware
+2022-03-12 14:13:38,159 INFO 3992 [egg-security] use xssProtection middleware
+2022-03-12 14:13:38,160 INFO 3992 [egg-security] use xframe middleware
+2022-03-12 14:13:38,160 INFO 3992 [egg-security] use dta middleware
+2022-03-12 14:13:38,160 INFO 3992 [egg-security] compose 7 middlewares into one security middleware
+2022-03-12 14:13:38,167 INFO 3992 [egg:core] dump config after load, 3ms
+2022-03-12 14:13:38,179 INFO 3992 [egg-watcher:application] watcher start success
+2022-03-12 14:13:38,182 INFO 3992 [egg-mysql] instance[0] status OK, rds currentTime: Sat Mar 12 2022 14:13:38 GMT+0800 (China Standard Time)
+2022-03-12 14:13:38,187 INFO 3992 [egg:core] dump config after ready, 4ms
+2022-03-12 14:14:55,807 INFO 4036 [egg:logger] init all loggers with options: {"dir":"/Users/bips/Documents/gitres/web/electron/littleCRM/logs/littlecrm","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"littlecrm-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-03-12 14:14:55,831 INFO 4036 [egg-multipart] stream mode enable
+2022-03-12 14:14:55,832 INFO 4036 [egg-mysql] connecting root@127.0.0.1:3306/littlecrm
+2022-03-12 14:14:55,954 INFO 4036 [egg-static] starting static serve /public/ -> /Users/bips/Documents/gitres/web/electron/littleCRM/app/public
+2022-03-12 14:14:55,956 INFO 4036 [egg-security] use csrf middleware
+2022-03-12 14:14:55,956 INFO 4036 [egg-security] use methodnoallow middleware
+2022-03-12 14:14:55,956 INFO 4036 [egg-security] use noopen middleware
+2022-03-12 14:14:55,957 INFO 4036 [egg-security] use nosniff middleware
+2022-03-12 14:14:55,958 INFO 4036 [egg-security] use xssProtection middleware
+2022-03-12 14:14:55,958 INFO 4036 [egg-security] use xframe middleware
+2022-03-12 14:14:55,959 INFO 4036 [egg-security] use dta middleware
+2022-03-12 14:14:55,959 INFO 4036 [egg-security] compose 7 middlewares into one security middleware
+2022-03-12 14:14:55,967 INFO 4036 [egg:core] dump config after load, 5ms
+2022-03-12 14:14:55,984 INFO 4036 [egg-watcher:application] watcher start success
+2022-03-12 14:14:55,986 INFO 4036 [egg-mysql] instance[0] status OK, rds currentTime: Sat Mar 12 2022 14:14:55 GMT+0800 (China Standard Time)
+2022-03-12 14:14:55,994 INFO 4036 [egg:core] dump config after ready, 6ms
+2022-03-12 14:15:11,938 INFO 4053 [egg:logger] init all loggers with options: {"dir":"/Users/bips/Documents/gitres/web/electron/littleCRM/logs/littlecrm","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"littlecrm-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-03-12 14:15:11,959 INFO 4053 [egg-multipart] stream mode enable
+2022-03-12 14:15:11,960 INFO 4053 [egg-mysql] connecting root@127.0.0.1:3306/littlecrm
+2022-03-12 14:15:12,069 INFO 4053 [egg-static] starting static serve /public/ -> /Users/bips/Documents/gitres/web/electron/littleCRM/app/public
+2022-03-12 14:15:12,072 INFO 4053 [egg-security] use csrf middleware
+2022-03-12 14:15:12,073 INFO 4053 [egg-security] use methodnoallow middleware
+2022-03-12 14:15:12,073 INFO 4053 [egg-security] use noopen middleware
+2022-03-12 14:15:12,074 INFO 4053 [egg-security] use nosniff middleware
+2022-03-12 14:15:12,074 INFO 4053 [egg-security] use xssProtection middleware
+2022-03-12 14:15:12,074 INFO 4053 [egg-security] use xframe middleware
+2022-03-12 14:15:12,075 INFO 4053 [egg-security] use dta middleware
+2022-03-12 14:15:12,075 INFO 4053 [egg-security] compose 7 middlewares into one security middleware
+2022-03-12 14:15:12,082 INFO 4053 [egg:core] dump config after load, 4ms
+2022-03-12 14:15:12,100 INFO 4053 [egg-watcher:application] watcher start success
+2022-03-12 14:15:12,102 INFO 4053 [egg-mysql] instance[0] status OK, rds currentTime: Sat Mar 12 2022 14:15:12 GMT+0800 (China Standard Time)
+2022-03-12 14:15:12,108 INFO 4053 [egg:core] dump config after ready, 4ms
+2022-03-12 14:16:31,186 INFO 4113 [egg:logger] init all loggers with options: {"dir":"/Users/bips/Documents/gitres/web/electron/littleCRM/logs/littlecrm","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"littlecrm-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-03-12 14:16:31,219 INFO 4113 [egg-multipart] stream mode enable
+2022-03-12 14:16:31,219 INFO 4113 [egg-mysql] connecting root@127.0.0.1:3306/littlecrm
+2022-03-12 14:16:31,481 INFO 4113 [egg-static] starting static serve /public/ -> /Users/bips/Documents/gitres/web/electron/littleCRM/app/public
+2022-03-12 14:16:31,483 INFO 4113 [egg-security] use csrf middleware
+2022-03-12 14:16:31,484 INFO 4113 [egg-security] use methodnoallow middleware
+2022-03-12 14:16:31,485 INFO 4113 [egg-security] use noopen middleware
+2022-03-12 14:16:31,486 INFO 4113 [egg-security] use nosniff middleware
+2022-03-12 14:16:31,488 INFO 4113 [egg-security] use xssProtection middleware
+2022-03-12 14:16:31,489 INFO 4113 [egg-security] use xframe middleware
+2022-03-12 14:16:31,490 INFO 4113 [egg-security] use dta middleware
+2022-03-12 14:16:31,490 INFO 4113 [egg-security] compose 7 middlewares into one security middleware
+2022-03-12 14:16:31,500 INFO 4113 [egg:core] dump config after load, 3ms
+2022-03-12 14:16:31,513 INFO 4113 [egg-watcher:application] watcher start success
+2022-03-12 14:16:31,515 INFO 4113 [egg-mysql] instance[0] status OK, rds currentTime: Sat Mar 12 2022 14:16:31 GMT+0800 (China Standard Time)
+2022-03-12 14:16:31,520 INFO 4113 [egg:core] dump config after ready, 4ms
+2022-03-12 15:52:27,174 INFO 6657 [egg:logger] init all loggers with options: {"dir":"/Users/bips/Documents/gitres/web/electron/littleCRM/logs/littlecrm","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"littlecrm-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-03-12 15:52:27,213 INFO 6657 [egg-multipart] stream mode enable
+2022-03-12 15:52:27,213 INFO 6657 [egg-mysql] connecting root@127.0.0.1:3306/littlecrm
+2022-03-12 15:52:27,474 INFO 6657 [egg-static] starting static serve /public/ -> /Users/bips/Documents/gitres/web/electron/littleCRM/app/public
+2022-03-12 15:52:27,477 INFO 6657 [egg-security] use csrf middleware
+2022-03-12 15:52:27,478 INFO 6657 [egg-security] use methodnoallow middleware
+2022-03-12 15:52:27,479 INFO 6657 [egg-security] use noopen middleware
+2022-03-12 15:52:27,481 INFO 6657 [egg-security] use nosniff middleware
+2022-03-12 15:52:27,482 INFO 6657 [egg-security] use xssProtection middleware
+2022-03-12 15:52:27,483 INFO 6657 [egg-security] use xframe middleware
+2022-03-12 15:52:27,485 INFO 6657 [egg-security] use dta middleware
+2022-03-12 15:52:27,485 INFO 6657 [egg-security] compose 7 middlewares into one security middleware
+2022-03-12 15:52:27,497 INFO 6657 [egg:core] dump config after load, 3ms
+2022-03-12 15:52:27,513 INFO 6657 [egg-watcher:application] watcher start success
+2022-03-12 15:52:27,514 INFO 6657 [egg-mysql] instance[0] status OK, rds currentTime: Sat Mar 12 2022 15:52:27 GMT+0800 (China Standard Time)
+2022-03-12 15:52:27,524 INFO 6657 [egg:core] dump config after ready, 7ms
+2022-03-12 16:07:51,178 INFO 7680 [egg:logger] init all loggers with options: {"dir":"/Users/bips/Documents/gitres/web/electron/littleCRM/logs/littlecrm","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"littlecrm-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-03-12 16:07:51,209 INFO 7680 [egg-multipart] stream mode enable
+2022-03-12 16:07:51,210 INFO 7680 [egg-mysql] connecting root@127.0.0.1:3306/littlecrm
+2022-03-12 16:07:51,423 INFO 7680 [egg-static] starting static serve /public/ -> /Users/bips/Documents/gitres/web/electron/littleCRM/app/public
+2022-03-12 16:07:51,425 INFO 7680 [egg-security] use csrf middleware
+2022-03-12 16:07:51,436 INFO 7680 [egg-security] use methodnoallow middleware
+2022-03-12 16:07:51,437 INFO 7680 [egg-security] use noopen middleware
+2022-03-12 16:07:51,438 INFO 7680 [egg-security] use nosniff middleware
+2022-03-12 16:07:51,439 INFO 7680 [egg-security] use xssProtection middleware
+2022-03-12 16:07:51,440 INFO 7680 [egg-security] use xframe middleware
+2022-03-12 16:07:51,440 INFO 7680 [egg-security] use dta middleware
+2022-03-12 16:07:51,440 INFO 7680 [egg-security] compose 7 middlewares into one security middleware
+2022-03-12 16:07:51,451 INFO 7680 [egg:core] dump config after load, 4ms
+2022-03-12 16:07:51,481 INFO 7680 [egg-watcher:application] watcher start success
+2022-03-12 16:07:51,501 INFO 7680 [egg-mysql] instance[0] status OK, rds currentTime: Sat Mar 12 2022 16:07:51 GMT+0800 (China Standard Time)
+2022-03-12 16:07:51,507 INFO 7680 [egg:core] dump config after ready, 5ms
