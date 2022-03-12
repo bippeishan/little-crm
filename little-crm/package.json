@@ -19,13 +19,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "electron": "electron .",
-    "build:win64": "npm run build && electron-builder --win --x64",
-    "build:mac64": "npm run build && electron-builder --mac --x64"
+    "eject": "react-scripts eject"
   },
-  "homepage": ".",
-  "main": "main.js",
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -44,7 +39,5 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "electron-builder": "^22.14.13"
-  }
+  "devDependencies": {}
 }

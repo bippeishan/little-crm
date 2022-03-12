@@ -1,6 +1,7 @@
 // 引入electron并创建一个Browserwindow
 const {app, BrowserWindow} = require('electron');
 const path = require('path');
+const { exitCode } = require('process');
 const url = require('url');
 // 保持window对象的全局引用,避免JavaScript对象被垃圾回收时,窗口被自动关闭.
 let mainWindow
@@ -58,8 +59,10 @@ app.on('window-all-closed', function () {
    }
  })
 
- exec('npm run start', function(err,stdout,stderr){
-   if (err) {
-     console.log('服务启动失败:', err)
-   }
- })
+ // 本地开发这里要注释
+//  exec('npm run start', function(err,stdout,stderr){
+//    if (err) {
+//      console.log('服务启动失败:', err)
+//      exitCode()
+//    }
+//  })

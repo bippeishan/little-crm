@@ -198,3 +198,63 @@
 2022-03-06 19:21:55,145 INFO 30875 [egg-watcher] Start watching: "/Users/bips/Documents/gitres/web/electron/littleCRM/app.js"
 2022-03-06 19:21:55,145 INFO 30875 [egg-watcher:agent] watcher start success
 2022-03-06 19:21:55,159 INFO 30875 [egg:core] dump config after ready, 4ms
+2022-03-07 17:30:33,222 INFO 11579 [egg:logger] init all loggers with options: {"dir":"/Users/bips/Documents/gitres/web/electron/littleCRM/logs/littlecrm","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"littlecrm-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"agent"}
+2022-03-07 17:30:33,229 INFO 11579 [egg:core] dump config after load, 3ms
+2022-03-07 17:30:33,286 INFO 11579 [egg-watcher] Start watching: ["/Users/bips/Documents/gitres/web/electron/littleCRM/app","/Users/bips/Documents/gitres/web/electron/littleCRM/config","/Users/bips/Documents/gitres/web/electron/littleCRM/mocks","/Users/bips/Documents/gitres/web/electron/littleCRM/mocks_proxy","/Users/bips/Documents/gitres/web/electron/littleCRM/app.js"]
+2022-03-07 17:30:33,286 INFO 11579 [egg-watcher] Start watching: "/Users/bips/Documents/gitres/web/electron/littleCRM/app"
+2022-03-07 17:30:33,286 INFO 11579 [egg-watcher] Start watching: "/Users/bips/Documents/gitres/web/electron/littleCRM/config"
+2022-03-07 17:30:33,286 INFO 11579 [egg-watcher] Start watching: "/Users/bips/Documents/gitres/web/electron/littleCRM/mocks"
+2022-03-07 17:30:33,286 INFO 11579 [egg-watcher] Start watching: "/Users/bips/Documents/gitres/web/electron/littleCRM/mocks_proxy"
+2022-03-07 17:30:33,287 INFO 11579 [egg-watcher] Start watching: "/Users/bips/Documents/gitres/web/electron/littleCRM/app.js"
+2022-03-07 17:30:33,287 INFO 11579 [egg-watcher:agent] watcher start success
+2022-03-07 17:30:33,314 INFO 11579 [egg:core] dump config after ready, 3ms
+2022-03-12 12:45:33,377 INFO 1302 [egg:logger] init all loggers with options: {"dir":"/Users/bips/Documents/gitres/web/electron/littleCRM/logs/littlecrm","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"littlecrm-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"agent"}
+2022-03-12 12:45:33,387 INFO 1302 [egg:core] dump config after load, 5ms
+2022-03-12 12:45:33,429 INFO 1302 [egg-watcher] Start watching: ["/Users/bips/Documents/gitres/web/electron/littleCRM/app","/Users/bips/Documents/gitres/web/electron/littleCRM/config","/Users/bips/Documents/gitres/web/electron/littleCRM/mocks","/Users/bips/Documents/gitres/web/electron/littleCRM/mocks_proxy","/Users/bips/Documents/gitres/web/electron/littleCRM/app.js"]
+2022-03-12 12:45:33,429 INFO 1302 [egg-watcher] Start watching: "/Users/bips/Documents/gitres/web/electron/littleCRM/app"
+2022-03-12 12:45:33,429 INFO 1302 [egg-watcher] Start watching: "/Users/bips/Documents/gitres/web/electron/littleCRM/config"
+2022-03-12 12:45:33,429 INFO 1302 [egg-watcher] Start watching: "/Users/bips/Documents/gitres/web/electron/littleCRM/mocks"
+2022-03-12 12:45:33,430 INFO 1302 [egg-watcher] Start watching: "/Users/bips/Documents/gitres/web/electron/littleCRM/mocks_proxy"
+2022-03-12 12:45:33,430 INFO 1302 [egg-watcher] Start watching: "/Users/bips/Documents/gitres/web/electron/littleCRM/app.js"
+2022-03-12 12:45:33,430 INFO 1302 [egg-watcher:agent] watcher start success
+2022-03-12 12:45:33,451 INFO 1302 [egg:core] dump config after ready, 5ms
+2022-03-12 12:56:19,340 INFO 1707 [egg:logger] init all loggers with options: {"dir":"/Users/bips/Documents/gitres/web/electron/littleCRM/logs/littlecrm","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"littlecrm-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"agent"}
+2022-03-12 12:56:19,363 INFO 1707 [egg:core] dump config after load, 18ms
+2022-03-12 12:56:19,416 INFO 1707 [egg-watcher] Start watching: ["/Users/bips/Documents/gitres/web/electron/littleCRM/app","/Users/bips/Documents/gitres/web/electron/littleCRM/config","/Users/bips/Documents/gitres/web/electron/littleCRM/mocks","/Users/bips/Documents/gitres/web/electron/littleCRM/mocks_proxy","/Users/bips/Documents/gitres/web/electron/littleCRM/app.js"]
+2022-03-12 12:56:19,416 INFO 1707 [egg-watcher] Start watching: "/Users/bips/Documents/gitres/web/electron/littleCRM/app"
+2022-03-12 12:56:19,416 INFO 1707 [egg-watcher] Start watching: "/Users/bips/Documents/gitres/web/electron/littleCRM/config"
+2022-03-12 12:56:19,417 INFO 1707 [egg-watcher] Start watching: "/Users/bips/Documents/gitres/web/electron/littleCRM/mocks"
+2022-03-12 12:56:19,417 INFO 1707 [egg-watcher] Start watching: "/Users/bips/Documents/gitres/web/electron/littleCRM/mocks_proxy"
+2022-03-12 12:56:19,417 INFO 1707 [egg-watcher] Start watching: "/Users/bips/Documents/gitres/web/electron/littleCRM/app.js"
+2022-03-12 12:56:19,417 INFO 1707 [egg-watcher:agent] watcher start success
+2022-03-12 12:56:19,478 INFO 1707 [egg:core] dump config after ready, 14ms
+2022-03-12 12:56:56,747 INFO 1883 [egg:logger] init all loggers with options: {"dir":"/Users/bips/Documents/gitres/web/electron/littleCRM/logs/littlecrm","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"littlecrm-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"agent"}
+2022-03-12 12:56:56,761 INFO 1883 [egg:core] dump config after load, 5ms
+2022-03-12 12:56:56,814 INFO 1883 [egg-watcher] Start watching: ["/Users/bips/Documents/gitres/web/electron/littleCRM/app","/Users/bips/Documents/gitres/web/electron/littleCRM/config","/Users/bips/Documents/gitres/web/electron/littleCRM/mocks","/Users/bips/Documents/gitres/web/electron/littleCRM/mocks_proxy","/Users/bips/Documents/gitres/web/electron/littleCRM/app.js"]
+2022-03-12 12:56:56,814 INFO 1883 [egg-watcher] Start watching: "/Users/bips/Documents/gitres/web/electron/littleCRM/app"
+2022-03-12 12:56:56,814 INFO 1883 [egg-watcher] Start watching: "/Users/bips/Documents/gitres/web/electron/littleCRM/config"
+2022-03-12 12:56:56,814 INFO 1883 [egg-watcher] Start watching: "/Users/bips/Documents/gitres/web/electron/littleCRM/mocks"
+2022-03-12 12:56:56,814 INFO 1883 [egg-watcher] Start watching: "/Users/bips/Documents/gitres/web/electron/littleCRM/mocks_proxy"
+2022-03-12 12:56:56,814 INFO 1883 [egg-watcher] Start watching: "/Users/bips/Documents/gitres/web/electron/littleCRM/app.js"
+2022-03-12 12:56:56,815 INFO 1883 [egg-watcher:agent] watcher start success
+2022-03-12 12:56:56,827 INFO 1883 [egg:core] dump config after ready, 4ms
+2022-03-12 12:59:05,745 INFO 1980 [egg:logger] init all loggers with options: {"dir":"/Users/bips/Documents/gitres/web/electron/littleCRM/logs/littlecrm","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"littlecrm-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"agent"}
+2022-03-12 12:59:05,752 INFO 1980 [egg:core] dump config after load, 3ms
+2022-03-12 12:59:05,779 INFO 1980 [egg-watcher] Start watching: ["/Users/bips/Documents/gitres/web/electron/littleCRM/app","/Users/bips/Documents/gitres/web/electron/littleCRM/config","/Users/bips/Documents/gitres/web/electron/littleCRM/mocks","/Users/bips/Documents/gitres/web/electron/littleCRM/mocks_proxy","/Users/bips/Documents/gitres/web/electron/littleCRM/app.js"]
+2022-03-12 12:59:05,779 INFO 1980 [egg-watcher] Start watching: "/Users/bips/Documents/gitres/web/electron/littleCRM/app"
+2022-03-12 12:59:05,779 INFO 1980 [egg-watcher] Start watching: "/Users/bips/Documents/gitres/web/electron/littleCRM/config"
+2022-03-12 12:59:05,779 INFO 1980 [egg-watcher] Start watching: "/Users/bips/Documents/gitres/web/electron/littleCRM/mocks"
+2022-03-12 12:59:05,780 INFO 1980 [egg-watcher] Start watching: "/Users/bips/Documents/gitres/web/electron/littleCRM/mocks_proxy"
+2022-03-12 12:59:05,780 INFO 1980 [egg-watcher] Start watching: "/Users/bips/Documents/gitres/web/electron/littleCRM/app.js"
+2022-03-12 12:59:05,780 INFO 1980 [egg-watcher:agent] watcher start success
+2022-03-12 12:59:05,798 INFO 1980 [egg:core] dump config after ready, 4ms
+2022-03-12 12:59:57,854 INFO 2230 [egg:logger] init all loggers with options: {"dir":"/Users/bips/Documents/gitres/web/electron/littleCRM/logs/littlecrm","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"littlecrm-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"agent"}
+2022-03-12 12:59:57,868 INFO 2230 [egg:core] dump config after load, 10ms
+2022-03-12 12:59:57,902 INFO 2230 [egg-watcher] Start watching: ["/Users/bips/Documents/gitres/web/electron/littleCRM/app","/Users/bips/Documents/gitres/web/electron/littleCRM/config","/Users/bips/Documents/gitres/web/electron/littleCRM/mocks","/Users/bips/Documents/gitres/web/electron/littleCRM/mocks_proxy","/Users/bips/Documents/gitres/web/electron/littleCRM/app.js"]
+2022-03-12 12:59:57,902 INFO 2230 [egg-watcher] Start watching: "/Users/bips/Documents/gitres/web/electron/littleCRM/app"
+2022-03-12 12:59:57,902 INFO 2230 [egg-watcher] Start watching: "/Users/bips/Documents/gitres/web/electron/littleCRM/config"
+2022-03-12 12:59:57,902 INFO 2230 [egg-watcher] Start watching: "/Users/bips/Documents/gitres/web/electron/littleCRM/mocks"
+2022-03-12 12:59:57,902 INFO 2230 [egg-watcher] Start watching: "/Users/bips/Documents/gitres/web/electron/littleCRM/mocks_proxy"
+2022-03-12 12:59:57,902 INFO 2230 [egg-watcher] Start watching: "/Users/bips/Documents/gitres/web/electron/littleCRM/app.js"
+2022-03-12 12:59:57,902 INFO 2230 [egg-watcher:agent] watcher start success
+2022-03-12 12:59:57,927 INFO 2230 [egg:core] dump config after ready, 5ms

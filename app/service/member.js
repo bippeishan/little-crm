@@ -7,6 +7,13 @@ class MemberService extends Service {
   }
 
   async index() {
+    const result = await this.app.mysql.select('member', {
+      where: { status: 0 },
+      orders: [['create_time','desc']],
+      limit: 20,
+      offset: 0
+    })
+    console.log('result:', result)
     return [{
       'id': 1,
       'name': '小红',

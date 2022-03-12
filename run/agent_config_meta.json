@@ -4,6 +4,21 @@
     "origin": "/Users/bips/Documents/gitres/web/electron/littleCRM/config/config.default.js",
     "allowMethods": "/Users/bips/Documents/gitres/web/electron/littleCRM/config/config.default.js"
   },
+  "mysql": {
+    "client": {
+      "host": "/Users/bips/Documents/gitres/web/electron/littleCRM/config/config.default.js",
+      "port": "/Users/bips/Documents/gitres/web/electron/littleCRM/config/config.default.js",
+      "user": "/Users/bips/Documents/gitres/web/electron/littleCRM/config/config.default.js",
+      "password": "/Users/bips/Documents/gitres/web/electron/littleCRM/config/config.default.js",
+      "database": "/Users/bips/Documents/gitres/web/electron/littleCRM/config/config.default.js"
+    },
+    "app": "/Users/bips/Documents/gitres/web/electron/littleCRM/config/config.default.js",
+    "agent": "/Users/bips/Documents/gitres/web/electron/littleCRM/config/config.default.js",
+    "default": {
+      "database": "/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-mysql/config/config.default.js",
+      "connectionLimit": "/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-mysql/config/config.default.js"
+    }
+  },
   "session": {
     "maxAge": "/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-session/config/config.default.js",
     "key": "/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg-session/config/config.default.js",
@@ -172,7 +187,9 @@
       "electron": "/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg/config/config.default.js",
       "dev:electron": "/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg/config/config.default.js",
       "build:win64": "/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg/config/config.default.js",
-      "build:mac64": "/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg/config/config.default.js"
+      "mac64": "/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg/config/config.default.js",
+      "start": "/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg/config/config.default.js",
+      "stop": "/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg/config/config.default.js"
     },
     "author": "/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg/config/config.default.js",
     "license": "/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg/config/config.default.js",
@@ -180,11 +197,13 @@
       "concurrently": "/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg/config/config.default.js",
       "egg": "/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg/config/config.default.js",
       "egg-cors": "/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg/config/config.default.js",
-      "egg-view-react": "/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg/config/config.default.js",
-      "electron": "/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg/config/config.default.js"
+      "egg-mysql": "/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg/config/config.default.js",
+      "egg-view-react": "/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg/config/config.default.js"
     },
     "devDependencies": {
       "egg-bin": "/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg/config/config.default.js",
+      "electron": "/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg/config/config.default.js",
       "electron-builder": "/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg/config/config.default.js"
     },
     "homepage": "/Users/bips/Documents/gitres/web/electron/littleCRM/node_modules/egg/config/config.default.js",

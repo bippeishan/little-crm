@@ -1,6 +1,6 @@
 appId: com.example.app
-copyright: ©2020 bey6
-productName: bey6
+copyright: ©2020 littleCRM
+productName: littleCRM
 # asar 加密
 asar: false
 extends: null
